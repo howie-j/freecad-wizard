@@ -5,7 +5,7 @@ A "Getting-started-wizard" for FreeCAD, with a goal of flattening the learning c
 
 Please feel free to modify and add files to this repo as you wish, it is just a temporary repo until this feature is ready to be merged.
 
-tl;dr lets give users a choice between this:
+tl;dr lets give users a choice between something like this:
 
 ![](/Qt5_Designer/Graphics/FreeCAD_PD_Simple.png)
 
