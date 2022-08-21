@@ -25,3 +25,11 @@ When starting FreeCAD for the first time.
 
 ### Workbench
 ![Wizard-workbench](/assets/wizard-workbench-setup.png)
+
+### Mouse Navigation
+
+### Combo View / Split View
+
+### Link to 10 minute getting-started-tutorial video
+
+### Link to Wiki and Forum
