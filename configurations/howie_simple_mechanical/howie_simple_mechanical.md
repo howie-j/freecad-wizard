@@ -1,5 +1,5 @@
 # Howie's Simple Mechanical Configuration
-This configuration is is customized to suit mechanical CAD workflows centered around PartDesign. It's especially recommended for users coming from commercial low to mid-end CAD systems such as Fusion360 or SolidWorks, or new users trying FreeCAD for the first time.
+This configuration is customized to suit mechanical CAD workflows centered around PartDesign. It's especially recommended for users coming from commercial low to mid-end CAD systems such as Fusion360 or SolidWorks, or new users trying FreeCAD for the first time.
 
 ### Rationale
 Toolbar icons should be quick and easy to find, and only tools that are used almost every time FreeCAD is used should deserve a spot on the toolbar. Searching a cluttered toolbar for a tool by hovering the mouse over and reading the tool tips is extremely ineffective, and the superfluous icons distract the designer and makes it harder to quickly find the tool you are searching for.
