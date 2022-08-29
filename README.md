@@ -8,12 +8,12 @@ Please feel free to modify and add files to this repo as you wish, it is just a 
 ## TL;DR
 During first startup; lets give users a choice between something like this:  
 
-![*Simple*](config_files/howie_simple_mechanical/screenshots/comparasion_partdesign_simple.png)  
+![*Simple*](configurations/howie_simple_mechanical/screenshots/comparasion_partdesign_simple.png)  
 
 
 And this:  
 
-![*Full*](config_files/howie_simple_mechanical/screenshots/comparasion_partdesign_default.png)  
+![*Full*](configurations/howie_simple_mechanical/screenshots/comparasion_partdesign_default.png)  
 
 
 ## Wizard Mockup
@@ -35,3 +35,8 @@ Here is a quick mockup of what such a wizard could look like. This is a very rou
 Any help making proposals for new default configurations would be greatly appreciated.  
 
 Please start with a clean configuration, and create a pull request with your modified `FreeCAD.conf` and `user.cfg` files when you are happy. Create a directory with your files in `/config_files/`, and add a .md or .txt file with a short description of your modifications and rationale.
+
+## Submitted Configurations:
+Check out the currently submitted configurations here:  
+
+* [Howie's Simple Mechanical Configuration](configurations/howie_simple_mechanical/howie_simple_mechanical.md)  
