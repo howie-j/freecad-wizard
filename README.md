@@ -10,9 +10,11 @@ During first startup; lets give users a choice between something like this:
 
 ![*Simple*](config_files/howie_simple_mechanical/screenshots/comparasion_partdesign_simple.png)  
 
+
 And this:  
 
 ![*Full*](config_files/howie_simple_mechanical/screenshots/comparasion_partdesign_default.png)  
+
 
 ## Wizard Mockup
 
