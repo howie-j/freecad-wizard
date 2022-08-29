@@ -5,31 +5,31 @@ A "Getting-started-wizard" for FreeCAD, with a goal of flattening the learning c
 
 Please feel free to modify and add files to this repo as you wish, it is just a temporary repo until this feature is ready to be merged.
 
-tl;dr lets give users a choice between something like this:
+## TL;DR
+During first startup; lets give users a choice between something like this (simple):  
 
-![](/Qt5_Designer/Graphics/FreeCAD_PD_Simple.png)
+![](config_files/howie_simple_mechanical/screenshots/comparasion_partdesign_simple.png)  
 
-And this:
+And this (full):  
 
-![](/Qt5_Designer/Graphics/FreeCAD_PD_Full.png)
+![](config_files/howie_simple_mechanical/screenshots/comparasion_partdesign_default.png)  
 
-When starting FreeCAD for the first time.
+## Wizard Mockup
 
-## Proposal
+Here is a quick mockup of what such a wizard could look like. This is a very rough draft, do not read too much into the details.  
 
-### Welcome
-![Wizard-welcome](/assets/wizard-welcome.png)
+![](assets/wizard_example_1/page_1.png)  
 
-### Theme
-![Wizard-theme](/assets/wizard-theme-setup.png)
+![](assets/wizard_example_1/page_2.png)  
 
-### Workbench
-![Wizard-workbench](/assets/wizard-workbench-setup.png)
+![](assets/wizard_example_1/page_3.png)  
 
-### Mouse Navigation
+![](assets/wizard_example_1/page_4.png)  
 
-### Combo View / Split View
+![](assets/wizard_example_1/page_5.png)  
 
-### Link to 10 minute getting-started-tutorial video
 
-### Link to Wiki and Forum
+## Preference Packs / Configuration Files
+Any help making proposals for new default configurations would be greatly appreciated.  
+
+Please start with a clean configuration, and create a pull request with your modified `FreeCAD.conf` and `user.cfg` files when you are happy. Create a directory with your files in `/config_files/`, and add a .md or .txt file with a short description of your modifications and rationale.
