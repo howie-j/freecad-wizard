@@ -1,6 +1,0 @@
-<RCC>
-  <qresource prefix="Layout">
-    <file>Graphics/FreeCAD_PD_Full.png</file>
-    <file>Graphics/FreeCAD_PD_Simple.png</file>
-  </qresource>
-</RCC>

@@ -9,4 +9,4 @@ Rename it appropriately, and add a short description about what customisations a
 
 ### Related Discussions
 
-* forum thread
+* Forum thread

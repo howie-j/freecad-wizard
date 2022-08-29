@@ -1,0 +1,7 @@
+<RCC>
+  <qresource prefix="Layout"/>
+  <qresource prefix="newPrefix">
+    <file>resources/freecad_pd_full.png</file>
+    <file>resources/freecad_pd_simple.png</file>
+  </qresource>
+</RCC>
