@@ -6,13 +6,13 @@ A "Getting-started-wizard" for FreeCAD, with a goal of flattening the learning c
 Please feel free to modify and add files to this repo as you wish, it is just a temporary repo until this feature is ready to be merged.
 
 ## TL;DR
-During first startup; lets give users a choice between something like this (simple):  
+During first startup; lets give users a choice between something like this:  
 
-![](config_files/howie_simple_mechanical/screenshots/comparasion_partdesign_simple.png)  
+![*Simple*](config_files/howie_simple_mechanical/screenshots/comparasion_partdesign_simple.png)  
 
-And this (full):  
+And this:  
 
-![](config_files/howie_simple_mechanical/screenshots/comparasion_partdesign_default.png)  
+![*Full*](config_files/howie_simple_mechanical/screenshots/comparasion_partdesign_default.png)  
 
 ## Wizard Mockup
 
