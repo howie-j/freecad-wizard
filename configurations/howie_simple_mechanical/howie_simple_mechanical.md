@@ -48,4 +48,5 @@ The file menu on the other hand should include all tools for the current workben
 3. Delete the content of this folder: `[/.config/FreeCAD]` and copy `FreeCAD.conf` and `user.cfg` into it.
 
 ### Test on Windows
-Follow the same procedure as on linux, except you will find your config files in `C:\Users\USERNAME\%APPDATA%`
+Navigate to the Appdata folder, typically `C:\Users\USERNAME\%APPDATA%`.  
+In `%APPDATA%/Roaming/FreeCAD/`, delete `FreeCAD.conf` and `user.cfg`, and copy `FreeCAD.conf` and `user.cfg` into it.
