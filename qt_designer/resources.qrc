@@ -1,5 +1,15 @@
 <RCC>
-  <qresource prefix="Layout"/>
+  <qresource prefix="Layout">
+    <file>resources/icons/ArchWorkbench.svg</file>
+    <file>resources/icons/DraftWorkbench.svg</file>
+    <file>resources/icons/FemWorkbench.svg</file>
+    <file>resources/icons/PartDesignWorkbench.svg</file>
+    <file>resources/icons/PartWorkbench.svg</file>
+    <file>resources/icons/PathWorkbench.svg</file>
+    <file>resources/icons/SketcherWorkbench.svg</file>
+    <file>resources/icons/SpreadsheetWorkbench.svg</file>
+    <file>resources/icons/TechDrawWorkbench.svg</file>
+  </qresource>
   <qresource prefix="newPrefix">
     <file>resources/freecad_pd_full.png</file>
     <file>resources/freecad_pd_simple.png</file>
